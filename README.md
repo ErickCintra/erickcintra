@@ -4,6 +4,6 @@
 
 <ul>
   <li> <h4> 🌱 I’m currently learning the javascript universe (ReactJS, React Native and NodeJS), and Flutter with dart  </h4> </li>
-  <li> <h4> ⚡ I'm passionate for programmation and UI./h4> </li>
+  <li> <h4> ⚡ I'm passionate for programmation and UI. </h4> </li>
 </ul>
 
